@@ -1,0 +1,162 @@
+1 A large plastic ball is dropped from the top of a tall building.
+Fig. 1.1 shows the speed-time graph for the falling ball until it hits the ground.
+0 0       0       1 0       0       0       1 0       120 
+15 10 
+5 0 
+time
+ / s speed
+m / s
+Fig. 1.1
+(a)From the graph estimate,
+(i)the time during which the ball is travelling with terminal velocity,
+time =  ................................................ [1]
+(ii) the time during which the ball is accelerating,
+time =  ................................................ [1]
+(iii) the distance fallen while the ball is travelling with terminal velocity,
+distance =  ................................................ [2]
+(iv) the height of the building.
+height =  ................................................ [2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b)Explain, in terms of the forces acting on the ball, why
+(i)the acceleration of the ball decreases,
+ .................................................................................................................................. .................................................................................................................................. .................................................................................................................................. ............................................................................................................................ [3]
+(ii) the ball reaches terminal velocity. .................................................................................................................................. ............................................................................................................................ [2]
+[Total: 11]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+2 A solid plastic sphere falls towards the Earth. 
+Fig. 1.1 is the speed-time graph of the fall up to the point where the sphere hits the Earth’s
+surface.
+Fig. 1.1
+(a)Describe in detail the motion of the sphere shown by the graph.
+..........................................................................................................................................
+................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [3]020
+PQR S T
+406080100120140
+speed
+m / s
+10 02 0 3 0 4 0 05 6 07 0 08 9 0 100 110
+time  / s
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b)On Fig. 1.2, draw arrows to show the directions of the forces acting on the sphere when
+it is at the position shown by point S on the graph. Label your arrows with the names ofthe forces. [2]
+Fig. 1.2
+(c)Explain why the sphere is moving with constant speed at S.
+..........................................................................................................................................
+............................................................................................................................................................................................................................................................................... [2]
+(d)Use the graph to calculate the approximate distance that the sphere falls
+(i)between R and T,
+distance = ………………. [2]
+(ii) between P and Q.
+distance = ………………. [2]
+[ Total : 11 ]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+3 Fig. 2.1 shows a simple pendulum that swings backwards and forwards between P and Q.
+pendulum bob
+Fig. 2.1
+(a)The time taken for the pendulum to swing from P to Q is approximately 0.5 s.
+Describe how you would determine this time as accurately as possible.
+............................................................................................................................... ...........
+............................................................................................................................... ...........
+............................................................................................................................... ...... [2] 
+(b) (i) State the two vertical forces acting on the pendulum bob when it is at position R.1. . .......................................................................................................................... ...
+2. . ........................................................................................................................ [1 ]
+(ii) The pendulum bob moves along the arc of a circle. State the direction of the
+resultant of the two forces in (i).
+.............................................................................................................................. [1]
+(c)The mass of the bob is 0.2 kg. During the swing it moves so that P is 0.05 m higherthan R.
+Calculate the increase in potential energy of the pendulum bob betw een R and P .
+potential energy = ………………. [2]support
+string
+PRQ
+[ Total : 6]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+4 (a) State what is meant by the terms
+(i)weight, ......................................................................................................................
+.............................................................................................................................. [1]
+(ii) density. ......................................................................................................................
+.............................................................................................................................. [1]
+(b)A student is given a spring balance that has a scale in newtons. The student is told that
+the acceleration of free-fall is 10 m/s2.
+(i)Describe how the student could find the mass of an irregular solid object.
+...................................................................................................................................
+................................................................................................................................................................................................................................................................. [2]
+(ii) Describe how the student could go on to find the density of the object.
+....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(c)Fig. 1.1 shows three forces acting on an object of mass 0.5 kg. All three forces act
+through the centre of mass of the object.
+Fig. 1.1
+Calculate
+(i)the magnitude and direction of the resultant force on the object,
+magnitude =   ………………     direction .............................................................. [2]
+(ii) the magnitude of the acceleration of the object.
+acceleration =……………………  [2]4.0 N9.0 N 3.0 Ncentre of mass
+[ Total : 10 ]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+5 Fig. 1.1 shows the speed-time graph for a bus during tests.
+At time t = 0, the driver starts to brake.
+Fig. 1.1
+(a)For test 1,
+(i)determine how long the bus takes to stop,
+............................................................................................................................... ...
+(ii)state which part of the graph shows the greatest deceleration,
+............................................................................................................................... ...
+(iii)use the graph to determine how far the bus travels in the first 2 seconds.
+distance = ..........................................
+[4]10 8 6 4 2 0 9 7 5P
+Q
+R
+3 101020speed
+time t / sm / s
+515
+est test test t
+t test 1 est 1
+(b)For test 2, a device was fitted to the bus. The device changed the deceleration.
+(i)State two ways in which the deceleration during test 2 is different from that during
+test 1.
+1 ............................................................................................................................. ..
+2 ............................................................................................................................. ..
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(ii)Calculate the value of the deceleration in test 2.
+deceleration = ....................................
+[4]
+(c)Fig. 1.2 shows a sketch graph of the magnitude of the acceleration for the bus when it
+is travelling around a circular track at constant speed.
+Fig. 1.2
+(i)Use the graph to show that there is a force of constant magnitude acting on thebus.
+..................................................................................................................................
+..................................................................................................................................
+(ii)State the direction of this force.
+..................................................................................................................................
+[3]00magnitude
+of acceleration
+time
+[Total :  11]
+  
+ 
+ 
+PhysicsAndMathsTutor.com

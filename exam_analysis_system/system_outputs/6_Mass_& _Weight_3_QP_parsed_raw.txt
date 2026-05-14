@@ -1,0 +1,161 @@
+1 The rocket shown in Fig. 2.1 is about to be launched.
+rocket
+Fig. 2.1
+The total mass of the rocket and its full load of fuel is 2.8 × 106 kg. The constant force provided by 
+the rocket’s motors is 3.2 × 107 N.
+(a)Calculate
+(i)the total weight of the rocket and the fuel,
+weight =  ........................................................ [1]
+(ii) the resultant force acting on the rocket,
+resultant force =  ........................................................ [2]
+(iii) the vertical acceleration of the rocket immediately after lift-off.
+acceleration =  ........................................................ [2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b)Suggest why the acceleration of the rocket increases as it rises above the Earth’s surface.
+ ................................................................................................................................................... .............................................................................................................................................. [1]
+[Total: 6]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+2 A metre rule balances when the 50 cm mark is directly above a pivot.
+(a) State where in the rule its centre of mass is located.
+ ................................................................................................................................................... .............................................................................................................................................. [1]
+(b) Fig. 3.1 shows an apple and a 0.40 N weight placed on the rule so that the rule remains
+balanced at the 50 cm mark.
+25 cm45 cm
+pivot50 cm
+markapple0.40  N
+weight
+Fig. 3.1 (not to scale)
+The centre of mass of the apple is 25 cm from the pivot and the centre of mass of the weight is 45 cm from the pivot.
+Calculate
+(i)the weight of the apple,
+weight =  ............................................... [2]
+(ii) the mass of the apple.
+mass =  ............................................... [1]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(c) The apple is not moved. The weight is removed from the rule and the pivot is moved to the left
+until the rule balances as shown in Fig. 3.2.
+50 cm
+markapple
+pivot
+Fig. 3.2 (not to scale)
+(i)Explain why the arrangement in Fig. 3.2 balances.
+ ........................................................................................................................................... ........................................................................................................................................... ...................................................................................................................................... [2]
+(ii) The pivot in Fig. 3.2 is closer to the 50 cm mark than to the centre of mass of the apple.Compare the weight of the rule to the weight of the apple. ........................................................................................................................................... ...................................................................................................................................... [1]
+[Total: 7]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+3 Fig. 3.1 shows a hydraulic lift in a car repair workshop.
+hydraulic fluid
+4 pistons, each
+of area 0.02  m2
+piston A, area 0.01  m2car support
+Fig. 3.1
+The hydraulic fluid transmits the pressure, caused by piston A, equally to each of the four pistons 
+holding up the car supports. The pressure throughout the fluid is the same.
+A force of 1000 N on piston A is just enough to raise the car.(a) Using values from Fig. 3.1, find
+(i)the pressure caused by piston A on the fluid,
+pressure =  .........................................................  [2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(ii) the total upward force caused by the fluid.
+force =  .........................................................  [3]
+(b) The weight of each of the two car supports is 1000 N.
+Calculate the mass of the car.
+mass =  .........................................................  [2]
+[Total: 7]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+4 Fig. 2.1 shows a circular metal disc of mass 200 g, freely pivoted at its centre.
+pivot
+Fig. 2.1
+Masses of 100 g, 200 g, 300 g, 400 g, 500 g and 600 g are available, but only one of each 
+value. These may be hung with string from any of the holes. There are three small holes on each side of the centre, one at 4.0 cm from the pivot, one at 8.0 cm from the pivot and one at 12.0 cm from the pivot.
+The apparatus is to be used to show that there is no net moment of force acting on a body 
+when it is in equilibrium.
+(a) On Fig. 2.1, draw in two different value masses hanging from appropriate holes. Thevalues of the masses should be chosen so that there is no net moment. Alongside themasses chosen, write down their values. [2]
+(b) Explain how you would test that your chosen masses give no net moment to the disc.
+ .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... ....................................................................................................................................  [1]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(c) Calculate the moments about the pivot due to the two masses chosen.
+moment due to first mass =  .....................................................
+moment due to second mass =  ......................................................
+[2]
+(d) Calculate the force on the pivot when the two masses chosen are hanging from the
+disc.
+f orce = ................................................ [2]
+[Total: 7]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+5 (a) A stone falls from the top of a building and hits the ground at a speed of 32 m/s.
+The air resistance-force on the stone is very small and may be neglected.
+(i)Calculate the time of fall.
+time = ............................
+(ii) On Fig. 1.1, draw the speed-time graph for the falling stone.
+10
+0203040
+1 0 223speed
+m/s
+time/s
+Fig. 1.1
+(iii) The weight of the stone is 24 N.
+Calculate the mass of the stone.
+mass = ............................
+[5]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b) A student used a suitable measuring cylinder and a spring balance to find the density of
+a sample of the stone.
+(i)Describe how the measuring cylinder is used, and state the readings that aretaken.
+ .................................................................................................................................. .................................................................................................................................. .................................................................................................................................. ..................................................................................................................................
+(ii) Describe how the spring balance is used, and state the reading that is taken. .................................................................................................................................. ..................................................................................................................................
+(iii) Write down an equation from which the density of the stone is calculated. ..................................................................................................................................
+(iv) The student then wishes to find the density of cork. Suggest how the apparatus and
+the method would need to be changed.
+ .................................................................................................................................. .................................................................................................................................. ..................................................................................................................................
+[6]
+[ Total  : 12]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+6 A scientist needs to find the density of a sample of rock whilst down a mine. He has only a
+spring balance, a measuring cylinder, some water and some thread.
+(a)In the space below, draw two labelled diagrams, one to show the spring balance being
+used and the other to show the measuring cylinder being used with a suitable rocksample. [2]
+(b)The spring balance is calibrated in newtons. State how the mass of the rock samplemay be found from the reading of the spring balance.
+......................................................................................................................................[1]
+(c)State the readings that would be taken from the measuring cylinder.
+..........................................................................................................................................
+......................................................................................................................................[1]
+(d)State how the volume of the rock would be found from the readings.
+......................................................................................................................................[1]
+(e)State in words the formula that would be used to find the density of the sample.
+density =
+[1]
+[ Total : 6 ]
+  
+ 
+ 
+PhysicsAndMathsTutor.com

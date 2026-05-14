@@ -1,0 +1,201 @@
+1 A large stone block is to be part of a harbour wall. The block is supported beneath the surface of 
+the sea by a cable from a crane. Fig. 2.1 shows the block with its top face a distance h beneath the 
+surface of the sea.
+blockcable
+surface of sea
+h
+Fig. 2.1
+The force acting downwards on the top face of the block, due to the atmosphere and the depth h of water, is 3.5 × 10
+4 N.
+(a) The top face of the block has an area of 0.25 m2.
+(i)Calculate the pressure on the top face of the block.
+pressure =  ................................................ [2]
+(ii) The atmospheric pressure is 1.0 × 105 Pa.
+Calculate the pressure on the top face of the block due to the depth h of water.
+pressure =  ................................................ [1]
+(iii) The density of sea water is 1020 kg / m3.
+Calculate the depth h.
+h =  ................................................ [2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b) Suggest two reasons why the tension force in the cable is not 3.5 × 104 N.
+1.  ..............................................................................................................................................
+2.  ..............................................................................................................................................
+[2]
+(c) The block is lowered so that it rests on the sea-bed.State what happens to the tension force in the cable. .............................................................................................................................................. [1]
+[Total: 8]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+2 A surveyor measures the dimensions of a room of constant height. Fig. 2.1 is a top view of the 
+room and shows the measurements taken.
+6.01  m
+4.25  m
+3.26  m6.75  m
+Fig. 2.1
+(a) State an instrument that would be suitable to take these measurements.
+ .............................................................................................................................................. [1]
+(b) The volume of air in the room is 76.4 m3. The density of the air is 1.2 kg / m3.
+Calculate the mass of air in the room.
+mass =  ........................................................ [2]
+(c) A window in the room is open. The next day, the temperature of the room has increased, but
+the pressure of the air has stayed the same.
+State and explain what has happened to the mass of air in the room. ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... .............................................................................................................................................. [3]
+[Total: 6]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+3 (a) Fig. 3.1 shows an oil can containing only air at atmospheric pressure.
+can
+Fig. 3.1
+Atmospheric pressure is 1.0 × 105 Pa.
+The pressure of the air in the can is reduced by means of a pump. The can collapses when 
+the pressure of the air in the can falls to 6000 Pa.
+(i)Explain why the can collapses.
+ ........................................................................................................................................... .......................................................................................................................................[1]
+(ii) The surface area of face X of the can is 0.12 m
+2.
+Calculate the resultant force on face X when the can collapses.
+force =  ................................................[3]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b) Mercury is poured into a U-shaped glass tube. Water is then poured into one of the limbs of
+the tube. Oil is poured into the other limb until the surfaces of the mercury are at the samelevel in both limbs.
+Fig. 3.2 shows the result.
+oilwater
+mercury0.32  m
+0.25  m
+Fig. 3.2
+(i)State a condition that must be true in order for the mercury surfaces to be at the same
+level in both limbs of the tube.
+ .......................................................................................................................................[1]
+(ii) The height of the water column is 0.25 m. The height of the oil column is 0.32 m. The
+density of water is 1000 kg / m3.
+Calculate
+1.the pressure exerted by the water on the surface of the mercury,
+pressure =  ................................................[2]
+2.the density of the oil.
+density =  ................................................[2]
+[Total: 9]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+4 Fig. 4.1 shows a small wind-turbine used to generate electricity .
+Fig. 4.1
+The wind-turbine drives an electric generator.
+The wind blows with a velocity of 7.0 m / s at right angles to the plane of the turbine. The mass of 
+air passing per second through the turbine is 6.7 kg.
+(a) (i) Calculate the kinetic energy of the air blown through the turbine per second.
+kinetic energy =  ............................................... [2]
+(ii) Only 8% of this energy is converted to electrical energy.Calculate the power output of the electric generator.
+power output =  ............................................... [2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b) The volume of air passing through the turbine each second is 5.6 m3 (flow rate is 5.6 m3 / s).
+Calculate the density of the air.
+density of air =  ............................................... [2]
+(c) The turbine turns a generator.
+Describe the essential action within the generator that produces electricity. ................................................................................................................................................... ................................................................................................................................................... .............................................................................................................................................. [2]
+[Total: 8]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+5 An archaeologist digging at an ancient site discovers a spoon. The spoon is made from an 
+unidentified material. 
+(a) The archaeologist suspects that the spoon is made of metal. She places it above a
+flame, as shown in Fig. 1.1.
+Fig. 1.1
+(i)She notices that the handle of the spoon quickly becomes very hot.
+State why this observation supports the suggestion that the spoon is made of
+metal.
+ .................................................................................................................................. .............................................................................................................................. [1]
+(ii) Describe, in terms of its atoms, how thermal energy is transferred through a metal. .................................................................................................................................. .................................................................................................................................. .................................................................................................................................. .................................................................................................................................. .............................................................................................................................. [3]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b) The archaeologist hopes that, by determining its density, she will be able to identify the
+metal.
+Describe a method for determining the density of the metal from which the spoon is
+made.
+ .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... ......................................................................................................................................[4]
+[Total: 8]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+6 Fig. 3.1 shows a house brick of dimensions 21.0 cm × 10.0 cm × 7.00 cm.
+7.00  cm21.0  cm
+10.0  cm
+Fig. 3.1
+The brick is held under water with its largest surfaces horizontal. The density of water is 1000 kg / m3.
+(a) Calculate the difference in pressure between the top and the bottom surfaces of the brick.
+pressure difference =  .......................................................... [2]
+(b) Use your value from (a) to calculate the upward force exerted on the brick by the water.
+upward force =  .......................................................... [2]
+(c) The mass of the brick is 3.09 kg. Calculate the acceleration of the brick when it is released.
+acceleration =  .......................................................... [3]
+ [Total: 7]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+7 A wind turbine has blades, which sweep out an area of diameter 25 m.
+25 m
+blades
+Fig. 5.1
+(a) The wind is blowing directly towards the wind turbine at a speed of 12 m / s. At this wind
+speed, 7500 kg of air passes every second through the circular area swept out by theblades.
+(i)Calculate the kinetic energy of the air travelling at 12 m / s, which passes throughthe circular area in 1 second.
+kinetic energy =  ................................................  [3]
+(ii) The turbine converts 10% of the kinetic energy of the wind to electrical energy.
+Calculate the electrical power output of the turbine. State any equation that you
+use.
+pow ................................................er =  [3]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b) On another day, the wind speed is half that in (a).
+(i)Calculate the mass of air passing through the circular area per second on this day.
+................................................ mass =  [1]
+(ii) Calculate the power output of the wind turbine on the second day as a fraction of
+that on the first day.
+fr ................................................action =  [3]
+[Total: 10]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+8 Fig. 3.1 shows a pond  that is kept at a constant depth by a pressure-operated valve in the
+base.
+Fig. 3.1
+(a)The pond is kept at a depth of 2.0 m. The density of water is 1000 kg/m3.
+Calculate the water pressure on the valve.
+pressure =…………………….. [2]
+(b)The force required to open the valve is 50 N. The valve will open when the water depth
+reaches 2.0 m.
+Calculate the area of the valve.
+area = ……………………….. [2]
+(c)The water supply is turned off and the valve is held open so that water drains out
+through the valve.
+State the energy changes of the water that occur as the depth of the water drops from
+2.0 m to zero.
+..........................................................................................................................................
+..................................................................................................................................... [2]springoutletpressure-operated
+valvewater
+[ Total : 6 ]
+  
+ 
+ 
+PhysicsAndMathsTutor.com

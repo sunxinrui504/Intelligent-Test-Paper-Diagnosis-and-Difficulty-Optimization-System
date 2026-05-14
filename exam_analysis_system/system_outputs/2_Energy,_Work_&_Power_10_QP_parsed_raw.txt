@@ -1,0 +1,133 @@
+1 Fig. 3.1 shows an aeroplane of mass 3.4 × 105 kg accelerating uniformly from rest along a 
+runway.
+Fig. 3.1
+After 26 s it reaches a speed of 65 m / s.
+(a) Calculate
+(i)the acceleration of the aeroplane,
+acceleration =  ................................................. [2]
+(ii) the resultant force on the aeroplane.
+force =  ................................................. [2]
+(b) Just after taking off, the aeroplane continues to accelerate as it gains height.
+(i)State two forms of energy that increase during this time.
+1.  ..............................................................................................................................2.  ......................................................................................................................... [2]
+(ii) State one form of energy that decreases during this time. ............................................................................................................................. [1]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(iii) State why the total energy of the aeroplane decreases during this time.
+ .................................................................................................................................. ............................................................................................................................. [1]
+(c) When the aeroplane reaches its maximum height, it starts to follow a curved path at a
+constant speed.
+State the direction of the resultant force on the aeroplane. ..................................................................................................................................... [1]
+[Total: 9]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+2 An ornamental garden includes a small pond, which contains a pumped system that causes 
+water to go up a pipe and then to run down a heap of rocks.
+Fig. 3.1 shows a section through this water feature.
+0.8 mdown rocks
+pumped water rises
+through pipe
+rocks
+water inlet
+to pumpwater runs
+pump
+Fig. 3.1
+The density of water is 1000 kg / m3. A volume of 1 litre is equal to 0.001 m3.
+(a) Calculate the mass of 1 litre of water.
+mass =  ................................................  [2]
+(b) Calculate the work done raising 1 litre of water through a height of 0.8 m.
+work =  ................................................  [2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(c) The pump lifts 90 litres of water per minute.
+Calculate the minimum power of the pump.
+power =  ................................................  [2]
+(d) The pump is switched off.Immediately after the pump is switched off, what is the value of the water pressure at
+the bottom of the 0.8 m pipe, due to the water in the pipe?
+pressure =  ................................................  [2]
+[Total: 8]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+3 Fig. 2.1 shows a rock that is falling from the top of a cliff into the river below.
+Fig. 2.1
+(a)The mass of the rock is 75 kg. The acceleration of free fall is 10 m/s2.
+Calculate the weight of the rock.
+weight = …………………[1]
+(b)The rock falls from rest through a distance of 15 m before it hits the water.
+Calculate its kinetic energy just before hitting the water. Show your working.
+kinetic energy = …………………[3]
+(c)The rock hits the water. Suggest what happens to the kinetic energy of the rock duringthe impact.
+..........................................................................................................................................
+................................................................................................................................................................................................................................................................................[3]cliff
+falling 
+rock
+river
+[ Total : 7 ]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+4 Fig. 3.1 shows the arm of a crane when it is lifting a heavy box.
+Fig. 3.1
+(a)By the use of a scale diagram ( notcalculation) of the forces acting at P , find the weight
+of the box. [5]40°30°950 N1220 N
+P
+box
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b)Another box of weight 1500 N is raised vertically by 3.0 m.
+(i)Calculate the work done on the box.
+work done = ..................................
+(ii) The crane takes 2.5 s to raise this box 3.0 m. Calculate the power output of the
+crane.
+power = ..................................
+[4]
+[ Total : 9 ]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+5 Fig. 1.1 shows a smooth metal block about to slide down BD, along DE and up EF .
+BD and DE are friction-free surfaces, but EF is rough. The block stops at F .
+Fig. 1.1
+(a)On Fig. 1.2, sketch the speed-time graph for the journey from B to F .
+Label D, E and F on your graph. [3]
+Fig. 1.2
+(b)The mass of the block is 0.2 kg. The vertical height of B above A is 0.6 m.The acceleration due to gravity is 10 m/s
+2.
+(i)Calculate the work done in lifting the block from A to B.
+work done = ............................
+(ii) At C, the block is moving at a speed of 2.5 m/s. Calculate its kinetic energy at C.
+kinetic energy = ...............................
+[5]timespeed
+BAB
+C
+D EFmetal
+block
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(c)As it passes D, the speed of the block remains almost constant but the velocity
+changes. Using the terms vector andscalar, explain this statement.
+..........................................................................................................................................
+................................................................................................................................................................................................................................................................................[2]
+(d)F is the point where the kinetic energy of the block is zero. In terms of energy changes,
+explain why F is lower than B.
+..........................................................................................................................................
+..........................................................................................................................................................................................................................................................................................................................................................................................................................[3]
+[Total  : 13 ]
+  
+ 
+ 
+PhysicsAndMathsTutor.com

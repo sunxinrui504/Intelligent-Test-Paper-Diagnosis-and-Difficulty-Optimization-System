@@ -1,0 +1,89 @@
+Fig. 2.1 shows a dummy of mass 70 kg used in a crash test to investigate the safety of a new car. 1
+barrierpassenger
+compartmentdummy
+windscreen
+Fig. 2.1
+The car approaches a solid barrier at 20 m / s. It crashes into the barrier and stops suddenly.
+(a) (i) Calculate the momentum of the dummy immediately before the crash.
+momentum = ................................................................. [2]
+(ii)Determine the impulse that must be applied to the dummy to bring it to rest.
+impulse = ................................................................. [1]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(b)In the crash test, the passenger compartment comes to rest in 0.20 s.
+Calculate the deceleration of the passenger compartment.
+deceleration = ................................................................. [2]
+(c)The seat belt and air bag bring the dummy to rest so that it does not hit the windscreen.
+The dummy has an average deceleration of 80 m / s2.
+Calculate the average resultant force applied to the dummy, of mass 70 kg.
+force = ................................................................. [2]
+(d)The deceleration of the dummy is less than the deceleration of the passenger compartment.
+Explain why this is of benefit for the safety of a passenger............................................................................................................................................
+....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... [2]
+[Total: 9]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+2 Fig. 2.1 shows a hammer being used to drive a nail into a piece of wood.
+hammer head
+nail
+wood
+Fig. 2.1
+The mass of the hammer head is 0.15 kg.
+The speed of the hammer head when it hits the nail is 8.0 m / s.The time for which the hammer head is in contact with the nail is 0.0015 s.
+The hammer head stops after hitting the nail.(a) Calculate the change in momentum of the hammer head.
+change in momentum =  ...........................................................[2]
+(b) State the impulse given to the nail.
+impulse =  ...........................................................[1]
+(c) Calculate the average force between the hammer and the nail.
+average force =  ...........................................................[2]
+ [Total: 5]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+3 The engine of an unpowered toy train is rolling at  a constant speed on a level track, as shown in 
+Fig. 3.1. The engine collides with a stationary toy truck, and joins with it. 
+sstatioationary y truuckkmmoving eving engine
+trtrackk
+Fig. 3.1 
+Before the collision, the toy engine is travelling at 0.32  m / s. The mass of the engine is 0.50  kg. 
+(a)Calculate the momentum of the toy engine before the collision.
+momentum = [2] 
+(b)The mass of the truck is 0.30  kg.
+Using the principle of conservation of momentum, calculate the speed of the joined engine
+and truck immediately after the collision.
+speed = [3] 
+[Total: 5] 
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+4 Fig. 4.1 represents part of the hydraulic braking system of a car.
+F1F2piston X piston Y
+Fig. 4.1
+The force F1 of the driver’s foot on the brake pedal moves piston X. The space between
+pistons X and Y is filled with oil which cannot be compressed. The force F2 exerted by the oil
+moves piston Y . This force is applied to the brake mechanism in the wheels of the car.
+The area of cross-section of piston X is 4.8 cm2.
+(a) The force F1 is 90 N. Calculate the pressure exerted on the oil by piston X.
+pressure =  ................................................. [2]
+(b) The pressure on piston Y is the same as the pressure applied by piston X. Explain why
+the force F2 is greater than the force F1.
+ ..........................................................................................................................................
+ ..................................................................................................................................... [1]
+(c) Piston Y moves a smaller distance than piston X. Explain why. .......................................................................................................................................... .......................................................................................................................................... ..................................................................................................................................... [2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(d) Suggest why the braking system does not work properly if the oil contains bubbles of air.
+ .......................................................................................................................................... .......................................................................................................................................... ..................................................................................................................................... [2]
+[Total: 7]
+  
+ 
+ 
+PhysicsAndMathsTutor.com

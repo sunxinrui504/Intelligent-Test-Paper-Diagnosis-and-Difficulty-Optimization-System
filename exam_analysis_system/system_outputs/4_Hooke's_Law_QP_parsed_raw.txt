@@ -1,0 +1,176 @@
+1 (a) (i) On Fig. 3.1, draw a graph of extension against load for a spring which obeys Hooke’s law.  [1]
+extension
+0
+0load
+Fig. 3.1
+(ii) State the word used to describe the energy stored in a spring that has been stretched or
+compressed.
+ .......................................................................................................................................[1]
+(b)Fig. 3.2 shows a model train, travelling at speed v,  approaching a buffer.
+model train
+buffer
+spring
+Fig. 3.2
+The train, of mass 2.5 kg, is stopped by compressing a spring in the buffer. After the train has 
+stopped, the energy stored in the spring is 0.48 J. 
+Calculate the initial speed v of the train. 
+v =  ...........................................................[4]
+[Total: 6]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+2 An athlete of mass 64 kg is bouncing up and down on a trampoline. 
+At one moment, the athlete is stationary on the stretched surface of the trampoline. Fig. 3.1 shows 
+the athlete at this moment. 
+springs
+Fig. 3.1
+(a)State the form of energy stored due to the stretching of the surface of the trampoline.
+ ...............................................................................................................................................[1]
+(b)The stretched surface of the trampoline begins to contract. The athlete is pushed vertically
+upwards and she accelerates. At time t, when her upwards velocity is 6.0 m / s, she loses
+contact with the surface.
+(i)Calculate her kinetic energy at time t. 
+kinetic energy =  .........................................................[2]
+(ii) Calculate the maximum possible distance she can travel upwards after time t.
+maximum distance =  .........................................................[3]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(iii) In practice, she travels upwards through a slightly smaller distance than the distance
+calculated in (ii).
+Suggest why this is so. ........................................................................................................................................... .......................................................................................................................................[1]
+(c)The trampoline springs are tested. An extension-load graph is plotted for one spring. Fig. 3.2
+is the graph.
+00extension
+loadX
+Fig. 3.2
+(i)State the name of the point X.
+ .......................................................................................................................................[1]
+(ii) State the name of the law that the spring obeys between the origin of the graph and
+point X.
+ .......................................................................................................................................[1]
+[Total: 9]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+3 Fig. 3.1 shows part of the extension-load graph for a spring.
+3.0
+00 12.0B
+A
+load  / Nextension  / cm
+Fig. 3.1
+The spring obeys Hooke’s law between points A and B.
+[1] (a) (i) On Fig. 3.1, complete the graph between A and B.
+(ii) State the name of point B.
+ .......................................................................................................................................[1]
+(b)The average value of the load between A and B is 6.0 N.Calculate the work done in extending the spring from A to B.
+work done =  ...........................................................[2]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(c)The spring has an unstretched length of 4.0 cm.
+An object is hung on the spring and the spring length increases from 4.0 cm to 6.0 cm.
+(i)Calculate the mass of the object.
+mass =  ...........................................................[3]
+(ii) The object is immersed in a liquid but remains suspended from the spring.The liquid exerts an upward force on the object and the length of the spring decreases
+to 5.0 cm.
+Calculate the upward force exerted on the object by the liquid.
+upward force =  ...........................................................[2]
+[Total: 9]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+4 Fig. 2.1 shows the extension-load graph for a spring. 
+00
+loadextensionP
+Fig. 2.1
+Point P is the limit of proportionality.
+(a) (i) Name the law obeyed by the spring from the origin to P . .............................................................................................................................. [1]
+(ii) Describe two features of the graph which show that the law is obeyed.1. ............................................................................................................................ ...
+2. ............................................................................................................................ ...
+[2]
+(b)On Fig. 2.1, sketch a possible continuation of the graph when the spring is loaded
+beyond the limit of proportionality.  [1]
+ [Total: 4]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+5 (a) State Hooke’s law.
+ ..........................................................................................................................................
+ ..................................................................................................................................... [1]
+(b)Fig. 1.1 shows a graph of the stretching force F acting on a spring against the extension
+x of the spring.
+0050100F / N
+x / mm150200250
+10 20 30 40 50 60 70 80
+Fig. 1.1
+(i)State the features of the graph that show that the spring obeys Hooke’s law. .................................................................................................................................. ............................................................................................................................. [1]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(ii) Calculate k, the force per unit extension of the spring.
+ =  ...................................................k [3]
+(iii) The limit of proportionality of the spring is reached at an extension of 50 mm.
+Continue the graph in Fig. 1.1 to suggest how the spring behaves when the
+stretching force is increased to values above 125 N. [1]
+(iv) Another spring has a smaller value of k. This spring obeys Hooke’s law for
+extensions up to 80 mm.
+On the grid of Fig. 1.1, draw a possible line of the variation of F with x  for this
+spring. [1]
+[Total: 7]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+6 A spring S is suspended from a clamp stand in a school laboratory.
+A student hangs various masses from the end of S and determines the extension x produced 
+by each mass. 
+(a) Calculate the weight of a 250 g mass.
+weight =  ................................................. [2]
+(b) The student plots a graph of the force F applied to the spring against the extension x. 
+Fig. 2.1 is the student’s graph.
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0
+02 6 4 8 1 0 1 2P
+x / cmF / N
+Fig. 2.1
+At point P on the graph, the line begins to curve. 
+(i)State the name given to point P .
+ .................................................................................................................................. .............................................................................................................................. [1]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
+(ii) Use the section of the graph where spring S obeys Hooke’s law ( F = kx) to
+determine the spring constant k of the spring.
+k =  ................................................. [2]
+(c) Fig. 2.2 shows a mass of 0.12 kg resting on the bottom of a box.
+mass spring box
+Fig. 2.2
+A spring that is identical to S connects the mass and one side of the box. Ignore friction 
+between the mass and the box.
+(i)The box and the mass are at rest.
+State the resultant force acting on the mass.
+force =  ................................................. [1]
+(ii) The box is firmly attached, in a horizontal position, to the body of a racing car.As the car accelerates the spring stretches by 2.0 cm.
+ 1. Using Fig. 2.1, determine the tension in the spring.
+tension =  ................................................. [1]
+ 2. Calculate the acceleration of the mass produced by this tension.
+acceleration =  ................................................. [2]
+[Total: 9]
+  
+ 
+ 
+PhysicsAndMathsTutor.com
